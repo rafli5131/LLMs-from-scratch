@@ -1,3 +1,5 @@
+> **Upstream project / learning fork:** This is a fork of Sebastian Raschka's original open-source book repository. Credit for the textbook, documentation, and upstream implementations belongs to the original authors and contributors. Having this fork does **not** establish authorship of the underlying LLM implementation. See the upstream project and contribution history for provenance.
+
 # Build a Large Language Model (From Scratch)
 
 This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM and is the official code repository for the book [Build a Large Language Model (From Scratch)](https://amzn.to/4fqvn0D).
